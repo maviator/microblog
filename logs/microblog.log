@@ -30,3 +30,9 @@ Traceback (most recent call last):
     raise BuildError(endpoint, values, method, self)
 werkzeug.routing.BuildError: Could not build url for endpoint 'user(current_user.username)'. Did you mean 'register' instead?
 2019-05-18 12:00:14,437 INFO: Microblog startup [in /home/mohtadi/Projects/microblog/app/__init__.py:47]
+2019-05-18 12:33:49,262 INFO: Microblog startup [in /home/mohtadi/Projects/microblog/app/__init__.py:47]
+2019-05-18 12:42:30,767 INFO: Microblog startup [in /home/mohtadi/Projects/microblog/app/__init__.py:47]
+2019-05-18 12:42:41,073 INFO: Microblog startup [in /home/mohtadi/Projects/microblog/app/__init__.py:47]
+2019-05-18 15:12:56,683 INFO: Microblog startup [in /home/mohtadi/Projects/microblog/app/__init__.py:47]
+2019-05-18 15:18:05,696 INFO: Microblog startup [in /home/mohtadi/Projects/microblog/app/__init__.py:47]
+2019-05-18 15:34:58,058 INFO: Microblog startup [in /home/mohtadi/Projects/microblog/app/__init__.py:47]
